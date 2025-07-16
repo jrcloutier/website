@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: _site
 website:
   title: "Jimmy Cloutier"
   site-url: https://jcloutier.com
