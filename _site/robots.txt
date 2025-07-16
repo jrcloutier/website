@@ -1,1 +1,1 @@
-Sitemap: https://jcloutier.com/sitemap.xml
+Sitemap: https://jrcloutier.github.io/jcloutier/sitemap.xml

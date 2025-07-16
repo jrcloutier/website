@@ -161,7 +161,7 @@ Jimmy Cloutier
 <ul>
 <li>Public records and data underpin much of our work.</li>
 <li>They provide an <strong>empirical</strong> backdrop to anecdotal and on-the-ground reporting.</li>
-<li>They can <strong>confirm</strong> and <strong>quality</strong> what we’re hearing fro sources.</li>
+<li>They can <strong>confirm</strong> and <strong>quality</strong> what we’re hearing from sources.</li>
 <li>Internal correspondence can provide <strong>behind-the-scenes</strong> insights.</li>
 <li>Data can provide broader <strong>context</strong> allowing us to find <strong>trends</strong>, <strong>patterns</strong>, and <strong>outliers</strong> over time and place.</li>
 <li>Record and data are kept by the government but <strong>they belong to the people</strong>.</li>
@@ -200,7 +200,7 @@ Jimmy Cloutier
 <h2>Formulating a request</h2>
 <ul>
 <li>Think like the person who has to find the records. How would you search for them?</li>
-<li>Be specific — keywords for searches, date range,s email domains, individual names.</li>
+<li>Be specific — keywords for searches, date range, email domains, individual names.</li>
 <li>Talk through the request with the agency that will have to find the. Tell them what you want, and sometimes they will help you use the right language to get it.</li>
 <li>Protect your confidential sources. If a request is too specific, it could lead back to them.</li>
 <li>Look at other public record requests. See what has worked and what hasn’t for requests that are similar to yours. You can find prior requests at the <a href="https://www.openrecords.pa.gov">Pennsylvania Office of Open Records</a>, <a href="https://www.muckrock.com">Muckrock</a> and <a href="https://www.governmentattic.org">Government Attic</a>. (Pro tip: You can also FOIA FOIAs).</li>
@@ -423,7 +423,7 @@ Jimmy Cloutier
 <li>Scrape of <a href="https://github.com/m-nolan/doge-scrape">DOGE website</a></li>
 <li><a href="https://github.com/washingtonpost/data-police-shootings">WaPo fatal force database</a></li>
 </ul></li>
-<li>Use Google dorks to find hidden records and data</li>
+<li>Use <a href="https://gist.github.com/ikuamike/c2611b171d64b823c1c1956129cbc055">Google dorks</a> to find hidden records and data</li>
 <li>Scrape website (maybe).</li>
 <li>Ask for it.</li>
 <li>Gather the data yourself.</li>
@@ -734,7 +734,7 @@ Jimmy Cloutier
       }
         var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
         var mailtoRegex = new RegExp(/^mailto:/);
-          var filterRegex = new RegExp("https:\/\/jcloutier\.com");
+          var filterRegex = new RegExp("https:\/\/jrcloutier\.github\.io\/jcloutier\/");
         var isInternal = (href) => {
             return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
         }

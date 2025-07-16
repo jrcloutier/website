@@ -22,7 +22,7 @@ format:
 
 - Public records and data underpin much of our work. 
 - They provide an **empirical** backdrop to anecdotal and on-the-ground reporting. 
-- They can **confirm** and **quality** what we're hearing fro sources.
+- They can **confirm** and **quality** what we're hearing from sources.
 - Internal correspondence can provide **behind-the-scenes** insights. 
 - Data can provide broader **context** allowing us to find **trends**, **patterns**, and **outliers** over time and place. 
 - Record and data are kept by the government but **they belong to the people**. 
@@ -51,7 +51,7 @@ format:
 
 ## Formulating a request
 - Think like the person who has to find the records. How would you search for them? 
-- Be specific — keywords for searches, date range,s email domains, individual names. 
+- Be specific — keywords for searches, date range, email domains, individual names. 
 - Talk through the request with the agency that will have to find the. Tell them what you want, and sometimes they will help you use the right language to get it. 
 - Protect your confidential sources. If a request is too specific, it could lead back to them. 
 - Look at other public record requests. See what has worked and what hasn't for requests that are similar to yours. You can find prior requests at the [Pennsylvania Office of Open Records](https://www.openrecords.pa.gov), [Muckrock](https://www.muckrock.com) and [Government Attic](https://www.governmentattic.org). (Pro tip: You can also FOIA FOIAs). 
@@ -267,7 +267,7 @@ There are also plenty of resources online:
 - Check Github
   - Scrape of [DOGE website](https://github.com/m-nolan/doge-scrape)
   - [WaPo fatal force database](https://github.com/washingtonpost/data-police-shootings)
-- Use Google dorks to find hidden records and data
+- Use [Google dorks](https://gist.github.com/ikuamike/c2611b171d64b823c1c1956129cbc055) to find hidden records and data
 - Scrape website (maybe).
 - Ask for it.
 - Gather the data yourself.
