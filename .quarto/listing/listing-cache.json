@@ -1,0 +1,10 @@
+{
+  "listingMap": {
+    "pages/index.qmd": [
+      "work.yml"
+    ],
+    "index.qmd": [
+      "work.yml"
+    ]
+  }
+}

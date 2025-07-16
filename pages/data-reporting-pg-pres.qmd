@@ -1,0 +1,255 @@
+---
+title: "Public records and data"
+author: 
+  - name: "Mike Wereschagin"
+    affiliation: "Assistant Managing Editor, Data/ Investigations"
+    email: mwereschagin@post-gazette.com
+  - name: "Jimmy Cloutier"
+    affiliation: "Data Journalist"
+    email: jcloutier@post-gazette.com
+format: 
+  revealjs:
+    slide-number: true
+    theme: default
+    fontScale: 0.9    # Adjust this value between 0 and 1
+    width: 1600
+    height: 900
+    logo: /assets/pg-logo.png
+    logo-height: 100
+---
+
+## Public records and data: A key resource 
+
+- Public records and data underpin much of our work. 
+- They provide an **empirical** backdrop to anecdotal and on-the-ground reporting. 
+- They can **confirm** and **quality** what we're hearing fro sources.
+- Internal correspondence can provide **behind-the-scenes** insights. 
+- Data can provide broader **context** allowing us to find **trends**, **patterns**, and **outliers** over time and place. 
+- Record and data are kept by the government but **they belong to the people**. 
+
+## Types of public records
+
+##### Unstructured data
+- Contracts, invoice, receipts — anything documenting a financial transaction.
+- Emails, texts, letters and other correspondences.
+- Memos, policy manuals, program guides — internal documents that help agencies function.
+
+
+##### Structured data
+- Anything collected in a systemic way, usually to inform decision-making (e.g. student test scores, arrests)
+- Metadata to unstructured data (e.g. sender, recipient, subject of an email)
+
+# Requesting records
+
+## How to get the records you need
+
+- Ask (seriously, just ask)
+- National and state public record laws — FOIA and Pennsylvania's Right-to-Know Law. Other states have their own versions. 
+- FOIA reading rooms. 
+- Google dorking
+- Data repositories
+
+## Formulating a request
+- Think like the person who has to find the records. How would you search for them? 
+- Be specific — keywords for searches, date range,s email domains, individual names. 
+- Talk through the request with the agency that will have to find the. Tell them what you want, and sometimes they will help you use the right language to get it. 
+- Protect your confidential sources. If a request is too specific, it could lead back to them. 
+- Look at other public record requests. See what has worked and what hasn't for requests that are similar to yours. You can find prior requests at the [Pennsylvania Office of Open Records](https://www.openrecords.pa.gov), [Muckrock](https://www.muckrock.com) and [Government Attic](https://www.governmentattic.org). (Pro tip: You can also FOIA FOIAs). 
+- Talk to a lawyer - [Pennsylvania NewsMedia Association](https://panewsmedia.org), [Reporters Committee for Freedom of the Press](https://www.rcfp.org).  
+
+# Working with data
+
+## Gaslit
+
+:::: {.columns}
+
+::: {.column width="40%"}
+Comparing **satellite data** to **regulatory reports**, the Howard Center at ASU [found](https://insideclimatenews.org/project/gaslit/) that the fossil fuel industry flared natural gas at volumes higher than what was disclosed to state regulators. 
+:::
+
+::: {.column width="60%"}
+<img src="/assets/SCR-20250715-tgej.jpeg"
+     style="box-shadow: 4px 4px 15px rgba(0,0,0,0.3);
+            width: 80%;
+            margin-left: 5rem;/">
+:::
+
+::::
+
+## Pittsburgh's portfolio of abandoned homes
+
+:::: {.columns}
+
+::: {.column width="40%"}
+A Post-Gazette analysis of **property assessment records** and **building code violations** [found](https://www.post-gazette.com/local/city/2024/12/15/pittsburgh-dilapidated-abandoned-houses-taxpayers/stories/202412150079) that Pittsburgh owns thousands of broken down and abandoned homes that have incurred scores of repeat violations, costing taxpayers millions of dollars and contributing to urban blight. 
+
+:::
+
+::: {.column width="60%"}
+<img src="/assets/PG-20241215.jpeg"
+     style="box-shadow: 4px 4px 15px rgba(0,0,0,0.3);
+            width: 80%;
+            margin-left: 5rem;/">
+:::
+
+::::
+
+## Girls' high school sports participation
+
+:::: {.columns}
+
+::: {.column width="40%"}
+The Minnesota Tribuna analyzed **sports data from the Federation of State High School Associations** to [find](https://www.startribune.com/minnesota-is-national-leader-in-girls-high-school-sports-participation/600182377?utm_source=gift) the state leads the country in girls’ high school participation. For every 100 Minnesota high school girls, there are 82 athletes. 
+
+:::
+
+::: {.column width="60%"}
+<img src="/assets/SCR-20250715-tlif.jpeg"
+     style="box-shadow: 4px 4px 15px rgba(0,0,0,0.3);
+            width: 80%;
+            margin-left: 5rem;/">
+:::
+
+::::
+
+## Using data in stories
+
+- Data isn’t the story. It’s a _guide_ to the story. 
+- Don’t bog the narrative down with numbers. Keep the total number of digits in a paragraph to fewer than 8. 
+
+# Do's and Don'ts
+
+## Do: Understand the data
+
+:::: {.columns}
+
+::: {.column width="40%"}
+- Read the data dictionary, technical guides and documentation.
+- Who created the data? Who maintains it?
+- How is the data collected? How often is it updated?
+- Is the data “long” or aggregated? 
+- What does each row and column represent? 
+:::
+
+::: {.column width="60%"}
+<img src="/assets/wide-data-example.png"
+     style="box-shadow: 4px 4px 15px rgba(0,0,0,0.3);
+            width: 85%;
+            margin-left: 5rem;/">
+<img src="/assets/long-data-example.png"
+     style="box-shadow: 4px 4px 15px rgba(0,0,0,0.3);
+            width: 85%;
+            margin-left: 5rem;/">
+:::
+
+::::
+
+## Do: Document your work 
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+- Keep a **data diary** to document your work. 
+- Keep a copy of the original data.
+
+:::
+
+::: {.column width="60%"}
+<img src="/assets/data-dictionary-example.png"
+     style="box-shadow: 4px 4px 15px rgba(0,0,0,0.3);
+            width: 85%;
+            margin-left: 5rem;/">
+:::
+
+::::
+
+## Do: Check your work 
+- Compare findings and results to research reports and summaries. 
+- Check your methodology against similar research. Academic studies and many investigative stories include methodology section. 
+- Talk to experts. 
+- Ask for help. 
+
+## Don'ts
+- **Don't modify the original data.** You should always work off a copy. 
+- **Don’t ignore outliers**. These could point to problems in the data — or reveal interesting threads and lead to new stories.
+- **Don’t ignore discrepancies** between your findings and similar research by others. These could point to problems in your methodology — or also lead to new stories. 
+- But also **don’t ignore gut feelings**. If something seems off, double check your work.
+
+## Data reporting on deadline
+- Collect, understand and, if you can, analyze datasets ahead of deadlines.
+- Mine the same dataset for new stories. 
+- If data is regularly updated (e.g. census population estimates, inflation), report on new releases.
+- Have a list of frequently used, high-quality data sources readily available.
+- Build your own database.
+
+## Want to learn more? 
+👋&nbsp;&nbsp;We're here to help!
+
+There are also plenty of resources online: 
+
+- [Searchable database](https://apps.machlis.com/shiny/nicar20_resources/) of NICAR tipsheets. 
+- GIJN [resource center](https://gijn.org/resource/?gijn_topic=data-journalism).
+- Check out award-winning [data](https://www.sigmaawards.org/) and [investigative](https://inn.org/about/our-work/nonprofit-news-awards/2024-award-winners/best-investigative-journalism-award/) projects. Many will detail their methodologies. 
+- Take note of good stories using data for inspiration (Pro tip: subscribe to [Local Matters](https://www.ire.org/news/newsletters/))
+
+# Sources
+
+## Sources: Data catalogs 
+
+- [Data.gov](https://data.gov) — 300,000+ datasets spanning the entire country. Some overlap between other catalogs. 
+- [OpenDataPA](https://data.pa.gov/browse) — Over **700** datasets. Can filter by state department, county, year, etc. 
+- [Western Pennsylvania Regional Data Center (WPRDC)](https://data.wprdc.org/dataset/) — 126 datasets on more than a dozen topics for Western Pennsylvania and Allegheny County. 
+
+## Sources: Government agencies
+
+- [U.S. Census Bureau](https://data.census.gov/) — Surveys covering dozens of topics by geographies. (Check out [FTP site](https://www2.census.gov/)). 
+  - Bureau newsroom has [useful stats](https://www.census.gov/newsroom/stories.html) for stories.
+- [SEC Edgar](https://www.sec.gov/edgar) — Financial disclosure filed by publicly-traded companies.
+- [CDC](https://wonder.cdc.gov/), [FEC](https://www.fec.gov/), [Bureau of Justice Statistics](https://bjs.ojp.gov/data/data-collections/search), [Bureau of Labor Statistic](https://www.bls.gov/), [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/data-research/), [Federal Reserve Economic Data](https://fred.stlouisfed.org/) (FRED), etc. — if it’s something the government tracks, look for data available online.
+
+## Sources: Government agencies (con't)
+
+- FOIA reading rooms and logs (you can FOIA for FOIA requests)
+- Reports by GAO, inspectors general, and other federal, state, and local auditors will (usually) cite sources. Find or request the data and records cited. 
+- Local examples: 
+  - City of Pittsburgh Controller’s Office:
+    - [City budget](https://budgetexplorer.pittsburghpa.gov/#!/view-data) 
+    - OpenBook — city contracts, local campaign finance, lobbyists
+  - Pittsburgh Public School [data dashboard](https://www.pghschools.org/departments/data-research-evaluation-assessment/data-dashboards)
+
+## Sources: Academics and journalists
+
+- [Data Liberation Project](https://www.data-liberation-project.org) (DLP) — Datasets, mostly at the federal level, obtained through FOIA. Now maintained by [Muckrock](https://www.muckrock.com).  
+- [FEC Itemizer](https://projects.propublica.org/itemizer/), [527 Explorer](https://projects.propublica.org/527-explorer/) and [OpenSecrets](https://www.opensecrets.org) — Three excellent sources for federal campaign finance data. 
+- [Nonprofit Explorer](https://projects.propublica.org/nonprofits/) — Records and basic stats on nonprofits.
+- [Gun Violence Data Hub](https://datahub.thetrace.org) — Collection of datasets related to gun violence compiled by The Trace. 
+- [Eviction Lab](https://evictionlab.org) — Data on eviction rates nationwide
+- [Deportation Data Project](https://deportationdata.org/index.html) — Data on ICE encounters, arrests, and detentions obtained through FOIA request. 
+- [OCCRP Aleph](https://aleph.occrp.org) — Data and leaks obtained by Organized Crime and Corruption Reporting Project. 
+
+## Sources: Government watchdogs and advocacy groups
+
+- [Government Attic](https://www.governmentattic.org)
+- [American Oversight](https://americanoversight.org)
+- [Citizens for Responsibility and Ethics in Washington](https://www.citizensforethics.org/reports-investigations/foia-requests/foia-requests/) (CREW)
+- [Good Jobs First](https://goodjobsfirst.org)
+- [OpenCorporates](https://opencorporates.com)
+- [OpenSanctions](https://www.opensanctions.org)
+- [DDOSecrets](https://ddosecrets.com) — leaks and hacked records
+
+## Sources: Company data 
+- Search for company open data portals (e.g. [Yelp](https://business.yelp.com/data/resources/open-dataset/))
+- Zillow [housing data](https://www.zillow.com/research/data/) and [rental market trends](https://www.zillow.com/rental-manager/market-trends/pittsburgh-pa/)
+- [Realtor.com](http://Realtor.com)
+
+## Still can't find what you're looking for? 
+- Check Github
+  - Scrape of [DOGE website](https://github.com/m-nolan/doge-scrape)
+  - [WaPo fatal force database](https://github.com/washingtonpost/data-police-shootings)
+- Use Google dorks to find hidden records and data
+- Scrape website (maybe).
+- Ask for it.
+- Gather the data yourself.
+
+

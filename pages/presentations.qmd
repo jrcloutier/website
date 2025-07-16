@@ -1,0 +1,8 @@
+---
+title: "Presentations"
+format: html
+---
+
+This is a collection of presentations and talks, currently a work-in-progress.  
+
+[Intro to data reporting](data-reporting-pg-pres.qmd) - Slides for data reporting presentation to Pittsburgh Post-Gazette interns. 

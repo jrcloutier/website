@@ -1,0 +1,44 @@
+---
+title: "Jimmy Cloutier"
+pagetitle: "Jimmy Cloutier"
+subtitle: "Data and Investigative Journalist"
+
+about:
+  template: solana
+  image-width: 28em
+  id: hero-heading
+  links:
+    - text: "{{< fa brands bluesky >}}"
+      aria-label: "Bluesky"
+      href: https://bsky.app/profile/cloutierjr.bsky.social
+    - icon: github
+      aria-label: "GitHub"
+      href: https://github.com/jcloutier
+page-layout: article
+
+execute: 
+  freeze: false
+  echo: false
+  warning: false
+  
+listing:
+  contents: work.yml
+  type: default
+  sort: date desc
+  sort-ui: false
+  filter-ui: false
+  fields: [title, date, author]
+  image-align: left
+---
+
+<br><br>
+
+::: {#hero-heading}
+I am a data and investigative journalist, which is a fancy way of saying I get paid to sift through large datasets and records to find and tell stories in the public interest. I currently report for the [Pittsburgh Post-Gazette](https://www.post-gazette.com/), where I have covered a range of issues including politics, housing, and coal mining. Before I joined the Post-Gazette, I covered campaign finance and lobbying for [OpenSecrets](https://www.opensecrets.org/), a nonprofit that tracks the influence of money in U.S. politics. 
+:::
+
+<br>
+
+------------------------------------------------------------------------
+
+#### Select work

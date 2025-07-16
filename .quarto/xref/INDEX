@@ -1,0 +1,47 @@
+{
+  "index.qmd": {
+    "index.html": "5e7f4163"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "e8334e98"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "04c52f72"
+  },
+  "about.qmd": {
+    "about.html": "ebf302b3"
+  },
+  "index-2.qmd": {
+    "index-2.html": "df027880"
+  },
+  "posts/toolbox.qmd": {
+    "toolbox.html": "912ba4c6"
+  },
+  "talks.qmd": {
+    "talks.html": "c0561d29"
+  },
+  "pages/about.qmd": {
+    "about.html": "a762eabe"
+  },
+  "pages/index.qmd": {
+    "index.html": "572de2a9"
+  },
+  "pages/talks.qmd": {
+    "talks.html": "c3d80bae"
+  },
+  "drafts/talks.qmd": {
+    "talks.html": "6b9f288f"
+  },
+  "drafts/tipsheets.qmd": {
+    "tipsheets.html": "0caae138"
+  },
+  "drafts/intro_to_data_journalism_pg_interns.qmd": {
+    "intro_to_data_journalism_pg_interns.html": "6745631d"
+  },
+  "pages/data-reporting-pg-pres.qmd": {
+    "data-reporting-pg-pres.html": "1d925c00"
+  },
+  "pages/presentations.qmd": {
+    "presentations.html": "19f7089b"
+  }
+}

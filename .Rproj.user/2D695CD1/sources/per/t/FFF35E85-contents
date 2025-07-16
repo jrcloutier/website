@@ -1,0 +1,44 @@
+---
+title: "Jimmy Cloutier"
+pagetitle: "Jimmy Cloutier"
+subtitle: "Data and Investigative Journalist"
+
+about:
+  template: solana
+  image-width: 28em
+  id: hero-heading
+  links:
+    - text: "{{< fa brands bluesky >}}"
+      aria-label: "Bluesky"
+      href: https://bsky.app/profile/cloutierjr.bsky.social
+    - icon: github
+      aria-label: "GitHub"
+      href: https://github.com/jcloutier
+page-layout: article
+
+execute: 
+  freeze: false
+  echo: false
+  warning: false
+  
+listing:
+  contents: work.yml
+  type: default
+  sort: "date desc"
+  sort-ui: false
+  filter-ui: false
+  fields: [title, description, date, author]
+  image-align: left
+---
+
+<br><br>
+
+::: {#hero-heading}
+I am a researcher, R educator, and data journalist with a love for community. My **research** leverages electronic health record and spatial data to study the intersection of health equity and urban nature. My **journalism** and **community** projects value the partnership between open source tools and data literacy as a way to build power and effect change.
+:::
+
+<br><br>
+
+------------------------------------------------------------------------
+
+#### Select work
