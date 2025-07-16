@@ -165,10 +165,27 @@ The Minnesota Tribuna analyzed **sports data from the Federation of State High S
 ::::
 
 ## Do: Check your work 
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
 - Compare findings and results to research reports and summaries. 
 - Check your methodology against similar research. Academic studies and many investigative stories include methodology section. 
 - Talk to experts. 
 - Ask for help. 
+
+:::
+
+::: {.column width="60%"}
+<img src="/assets/did-box-example.png"
+     style="box-shadow: 4px 4px 15px rgba(0,0,0,0.3);
+            width: 85%;
+            margin-left: 5rem;/">
+:::
+
+::::
+
 
 ## Don'ts
 - **Don't modify the original data.** You should always work off a copy. 
@@ -234,9 +251,12 @@ There are also plenty of resources online:
 - [American Oversight](https://americanoversight.org)
 - [Citizens for Responsibility and Ethics in Washington](https://www.citizensforethics.org/reports-investigations/foia-requests/foia-requests/) (CREW)
 - [Good Jobs First](https://goodjobsfirst.org)
+- [DDOSecrets](https://ddosecrets.com) — leaks and hacked records
+
+## Source: Corporate records
+- State corporate registrars, usually maintained by secretaries of state (e.g. Pennsylvania )
 - [OpenCorporates](https://opencorporates.com)
 - [OpenSanctions](https://www.opensanctions.org)
-- [DDOSecrets](https://ddosecrets.com) — leaks and hacked records
 
 ## Sources: Company data 
 - Search for company open data portals (e.g. [Yelp](https://business.yelp.com/data/resources/open-dataset/))

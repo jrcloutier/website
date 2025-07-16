@@ -1,10 +1,38 @@
 [
   {
-    "objectID": "pages/data-reporting-pg-pres.html#why-data",
-    "href": "pages/data-reporting-pg-pres.html#why-data",
-    "title": "Data Reporting",
-    "section": "Why data?",
-    "text": "Why data?\n\nAn empirical backdrop to anecdotal/on-the-ground reporting.\nCan confirm and qualify what you’re hearing from sources.\nProvides context and allows for comparison.\nShows trends, patterns and outliers over time and place.\nBreak ground for accountability and investigative stories."
+    "objectID": "pages/presentations.html",
+    "href": "pages/presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "This is a collection of presentations and talks, currently a work-in-progress.\nIntro to data reporting - Slides for data reporting presentation to Pittsburgh Post-Gazette interns."
+  },
+  {
+    "objectID": "pages/data-reporting-pg-pres.html#public-records-and-data-a-key-resource",
+    "href": "pages/data-reporting-pg-pres.html#public-records-and-data-a-key-resource",
+    "title": "Public records and data",
+    "section": "Public records and data: A key resource",
+    "text": "Public records and data: A key resource\n\nPublic records and data underpin much of our work.\nThey provide an empirical backdrop to anecdotal and on-the-ground reporting.\nThey can confirm and quality what we’re hearing fro sources.\nInternal correspondence can provide behind-the-scenes insights.\nData can provide broader context allowing us to find trends, patterns, and outliers over time and place.\nRecord and data are kept by the government but they belong to the people."
+  },
+  {
+    "objectID": "pages/data-reporting-pg-pres.html#types-of-public-records",
+    "href": "pages/data-reporting-pg-pres.html#types-of-public-records",
+    "title": "Public records and data",
+    "section": "Types of public records",
+    "text": "Types of public records\nUnstructured data\n\nContracts, invoice, receipts — anything documenting a financial transaction.\nEmails, texts, letters and other correspondences.\nMemos, policy manuals, program guides — internal documents that help agencies function.\n\nStructured data\n\nAnything collected in a systemic way, usually to inform decision-making (e.g. student test scores, arrests)\nMetadata to unstructured data (e.g. sender, recipient, subject of an email)"
+  },
+  {
+    "objectID": "pages/data-reporting-pg-pres.html#how-to-get-the-records-you-need",
+    "href": "pages/data-reporting-pg-pres.html#how-to-get-the-records-you-need",
+    "title": "Public records and data",
+    "section": "How to get the records you need",
+    "text": "How to get the records you need\n\nAsk (seriously, just ask)\nNational and state public record laws — FOIA and Pennsylvania’s Right-to-Know Law. Other states have their own versions.\nFOIA reading rooms.\nGoogle dorking\nData repositories"
+  },
+  {
+    "objectID": "pages/data-reporting-pg-pres.html#formulating-a-request",
+    "href": "pages/data-reporting-pg-pres.html#formulating-a-request",
+    "title": "Public records and data",
+    "section": "Formulating a request",
+    "text": "Formulating a request\n\nThink like the person who has to find the records. How would you search for them?\nBe specific — keywords for searches, date range,s email domains, individual names.\nTalk through the request with the agency that will have to find the. Tell them what you want, and sometimes they will help you use the right language to get it.\nProtect your confidential sources. If a request is too specific, it could lead back to them.\nLook at other public record requests. See what has worked and what hasn’t for requests that are similar to yours. You can find prior requests at the Pennsylvania Office of Open Records, Muckrock and Government Attic. (Pro tip: You can also FOIA FOIAs).\nTalk to a lawyer - Pennsylvania NewsMedia Association, Reporters Committee for Freedom of the Press."
   },
   {
     "objectID": "pages/data-reporting-pg-pres.html#gaslit",
@@ -53,7 +81,7 @@
     "href": "pages/data-reporting-pg-pres.html#do-check-your-work",
     "title": "Public records and data",
     "section": "Do: Check your work",
-    "text": "Do: Check your work\n\nCompare findings and results to research reports and summaries.\nCheck your methodology against similar research. Academic studies and many investigative stories include methodology section.\nTalk to experts.\nAsk for help."
+    "text": "Do: Check your work\n\n\n\nCompare findings and results to research reports and summaries.\nCheck your methodology against similar research. Academic studies and many investigative stories include methodology section.\nTalk to experts.\nAsk for help."
   },
   {
     "objectID": "pages/data-reporting-pg-pres.html#donts",
@@ -105,11 +133,25 @@
     "text": "Sources: Academics and journalists\n\nData Liberation Project (DLP) — Datasets, mostly at the federal level, obtained through FOIA. Now maintained by Muckrock.\n\nFEC Itemizer, 527 Explorer and OpenSecrets — Three excellent sources for federal campaign finance data.\nNonprofit Explorer — Records and basic stats on nonprofits.\nGun Violence Data Hub — Collection of datasets related to gun violence compiled by The Trace.\nEviction Lab — Data on eviction rates nationwide\nDeportation Data Project — Data on ICE encounters, arrests, and detentions obtained through FOIA request.\nOCCRP Aleph — Data and leaks obtained by Organized Crime and Corruption Reporting Project."
   },
   {
-    "objectID": "pages/data-reporting-pg-pres.html#sources-companies",
-    "href": "pages/data-reporting-pg-pres.html#sources-companies",
+    "objectID": "pages/data-reporting-pg-pres.html#sources-government-watchdogs-and-advocacy-groups",
+    "href": "pages/data-reporting-pg-pres.html#sources-government-watchdogs-and-advocacy-groups",
     "title": "Public records and data",
-    "section": "Sources: Companies",
-    "text": "Sources: Companies\n\nSearch for company open data portals (e.g. Yelp)\nZillow housing data and rental market trends\nRealtor.com"
+    "section": "Sources: Government watchdogs and advocacy groups",
+    "text": "Sources: Government watchdogs and advocacy groups\n\nGovernment Attic\nAmerican Oversight\nCitizens for Responsibility and Ethics in Washington (CREW)\nGood Jobs First\nDDOSecrets — leaks and hacked records"
+  },
+  {
+    "objectID": "pages/data-reporting-pg-pres.html#source-corporate-records",
+    "href": "pages/data-reporting-pg-pres.html#source-corporate-records",
+    "title": "Public records and data",
+    "section": "Source: Corporate records",
+    "text": "Source: Corporate records\n\nState corporate registrars, usually maintained by secretaries of state (e.g. Pennsylvania )\nOpenCorporates\nOpenSanctions"
+  },
+  {
+    "objectID": "pages/data-reporting-pg-pres.html#sources-company-data",
+    "href": "pages/data-reporting-pg-pres.html#sources-company-data",
+    "title": "Public records and data",
+    "section": "Sources: Company data",
+    "text": "Sources: Company data\n\nSearch for company open data portals (e.g. Yelp)\nZillow housing data and rental market trends\nRealtor.com"
   },
   {
     "objectID": "pages/data-reporting-pg-pres.html#still-cant-find-what-youre-looking-for",
@@ -119,45 +161,24 @@
     "text": "Still can’t find what you’re looking for?\n\nCheck Github\n\nScrape of DOGE website\nWaPo fatal force database\n\nUse Google dorks to find hidden records and data\nScrape website (maybe).\nAsk for it.\nGather the data yourself."
   },
   {
-    "objectID": "pages/data-reporting-pg-pres.html#public-records-and-data-a-key-resource",
-    "href": "pages/data-reporting-pg-pres.html#public-records-and-data-a-key-resource",
-    "title": "Public records and data",
-    "section": "Public records and data: A key resource",
-    "text": "Public records and data: A key resource\n\nPublic records and data underpin much of our work.\nThey provide an empirical backdrop to anecdotal and on-the-ground reporting.\nThey can confirm and quality what we’re hearing fro sources.\nInternal correspondence can provide behind-the-scenes insights.\nData can provide broader context allowing us to find trends, patterns, and outliers over time and place.\nRecord and data are kept by the government but they belong to the people."
+    "objectID": "drafts/tipsheets.html",
+    "href": "drafts/tipsheets.html",
+    "title": "Tipsheets",
+    "section": "",
+    "text": "A collection of tipsheets collected over time.\nInvestigating new oligarchs (GIJN)"
   },
   {
-    "objectID": "pages/data-reporting-pg-pres.html#types-of-public-records",
-    "href": "pages/data-reporting-pg-pres.html#types-of-public-records",
-    "title": "Public records and data",
-    "section": "Types of public records",
-    "text": "Types of public records\nUnstructured data\n\nContracts, invoice, receipts — anything documenting a financial transaction.\nEmails, texts, letters and other correspondences.\nMemos, policy manuals, program guides — internal documents that help agencies function.\n\nStructured data\n\nAnything collected in a systemic way, usually to inform decision-making (e.g. student test scores, arrests)\nMetadata to unstructured data (e.g. sender, recipient, subject of an email)"
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jimmy Cloutier",
+    "section": "",
+    "text": "I am a data and investigative journalist, which is a fancy way of saying I get paid to sift through large datasets and records to find and tell stories in the public interest. I currently report for the Pittsburgh Post-Gazette, where I have covered a range of issues including politics, housing, and coal mining. Before I joined the Post-Gazette, I covered campaign finance and lobbying for OpenSecrets, a nonprofit that tracks the influence of money in U.S. politics.\n\n    \n  \n\n\n\n\n\nSelect work\n\n\n\n\n\n\n\n\n\n\n\nICE detention surge across Western Pennsylvania\n\n\n\n\n\n\n\n\nJul 7, 2025\n\n\nPittsburgh Post-Gazette\n\n\n\n\n\n\n\nAs Pittsburgh nears a budget crisis, tax-exempt statuses have gone unchecked for years\n\n\n\n\n\n\n\n\nJun 15, 2025\n\n\nPittsburgh Post-Gazette\n\n\n\n\n\n\n\nAs Pittsburgh confronts affordable housing crisis, mayor touts successes but data shows shortfalls\n\n\n\n\n\n\n\n\nMay 11, 2025\n\n\nPittsburgh Post-Gazette\n\n\n\n\n\n\n\nDeep fear in coal country: DOGE cuts put region’s miners and families on edge\n\n\n\n\n\n\n\n\nMar 30, 2025\n\n\nPittsburgh Post-Gazette\n\n\n\n\n\n\n\nFlush with million, out-of-state corporate landlords shake up Allegheny County landscape\n\n\n\n\n\n\n\n\nMar 14, 2025\n\n\nPittsburgh Post-Gazette\n\n\n\n\n\n\n\nCity of Pittsburgh fails to repair hundreds of broken down and abandoned homes\n\n\n\n\n\n\n\n\nDec 15, 2024\n\n\nPittsburgh Post-Gazette\n\n\n\n\n\n\n\nBattle rages over Nippon-US Steel deal as deadline looms\n\n\n\n\n\n\n\n\nNov 17, 2024\n\n\nPittsburgh Post-Gazette\n\n\n\n\n\n\n\nDark money floods key races in Pennsylvania\n\n\n\n\n\n\n\n\nOct 20, 2024\n\n\nPittsburgh Post-Gazette\n\n\n\n\n\n\n\nGaslit: An investigation on flaring and venting of natural gas by fossil fuel companies.\n\n\n\n\n\n\n\n\nFeb 24, 2022\n\n\nHoward Center for Investigative Journalism\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "pages/data-reporting-pg-pres.html#how-to-get-the-records-you-need",
-    "href": "pages/data-reporting-pg-pres.html#how-to-get-the-records-you-need",
-    "title": "Public records and data",
-    "section": "How to get the records you need",
-    "text": "How to get the records you need\n\nAsk (seriously, just ask)\nNational and state public record laws — FOIA and Pennsylvania’s Right-to-Know Law. Other states have their own versions.\nFOIA reading rooms.\nGoogle dorking\nData repositories"
-  },
-  {
-    "objectID": "pages/data-reporting-pg-pres.html#formulating-a-request",
-    "href": "pages/data-reporting-pg-pres.html#formulating-a-request",
-    "title": "Public records and data",
-    "section": "Formulating a request",
-    "text": "Formulating a request\n\nThink like the person who has to find the records. How would you search for them?\nBe specific — keywords for searches, date range,s email domains, individual names.\nTalk through the request with the agency that will have to find the. Tell them what you want, and sometimes they will help you use the right language to get it.\nProtect your confidential sources. If a request is too specific, it could lead back to them.\nLook at other public record requests. See what has worked and what hasn’t for requests that are similar to yours. You can find prior requests at the Pennsylvania Office of Open Records, Muckrock and Government Attic. (Pro tip: You can also FOIA FOIAs).\nTalk to a lawyer - Pennsylvania NewsMedia Association, Reporters Committee for Freedom of the Press."
-  },
-  {
-    "objectID": "pages/data-reporting-pg-pres.html#sources-government-watchdogs-and-advocacy-groups",
-    "href": "pages/data-reporting-pg-pres.html#sources-government-watchdogs-and-advocacy-groups",
-    "title": "Public records and data",
-    "section": "Sources: Government watchdogs and advocacy groups",
-    "text": "Sources: Government watchdogs and advocacy groups\n\nGovernment Attic\nAmerican Oversight\nCitizens for Responsibility and Ethics in Washington (CREW)\nGood Jobs First\nOpenCorporates\nOpenSanctions\nDDOSecrets — leaks and hacked records"
-  },
-  {
-    "objectID": "pages/data-reporting-pg-pres.html#sources-company-data",
-    "href": "pages/data-reporting-pg-pres.html#sources-company-data",
-    "title": "Public records and data",
-    "section": "Sources: Company data",
-    "text": "Sources: Company data\n\nSearch for company open data portals (e.g. Yelp)\nZillow housing data and rental market trends\nRealtor.com"
+    "objectID": "pages/about.html",
+    "href": "pages/about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am Jimmy Cloutier (JIM-EE KL-oo-tyeh), a data and investigative journalist at the Pittsburgh Post-Gazette. That’s a fancy way of saying I get paid to sift through large datasets and records to find and tell stories in the public interest.\nBefore I joined the Post-Gazette, I covered campaign finance and lobbying for OpenSecrets, a nonprofit that tracks the influence of money in U.S. politics.I also freelanced for the Virginia Center for Investigative Journalism.\nI studied English literature at Virginia Commonwealth University and later graduated with a master’s degree in investigative journalism from Arizona State University. Between then, I taught high school and spent two years in Armenia with the U.S. Peace Corps, teaching English as a foreign language.\nI grew up outside Richmond, Virginia, but I was born in a small town in Québec, Canada.\n\n\nContact\njcloutier@post-gazette.com\nYou can reach me securely through the encrypted messaging app Signal at jrcloutier.92."
   }
 ]

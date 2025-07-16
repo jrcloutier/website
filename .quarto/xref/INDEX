@@ -43,5 +43,8 @@
   },
   "pages/presentations.qmd": {
     "presentations.html": "19f7089b"
+  },
+  "404.qmd": {
+    "404.html": "2105fe18"
   }
 }
