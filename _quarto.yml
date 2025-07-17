@@ -10,7 +10,7 @@ website:
         href: pages/about.qmd
   page-footer:
     left: >-
-     &#169; 2024 Jimmy Cloutier &#8729; Made with [Quarto](https://quarto.org)
+     &#169; 2025 Jimmy Cloutier &#8729; Made with [Quarto](https://quarto.org)
 format:
   html:
     theme:

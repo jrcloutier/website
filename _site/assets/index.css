@@ -141,3 +141,21 @@ div.quarto-post a {
 .quarto-about-solana .about-link .fa-github {
     font-size: 1em !important;
 }
+
+.contact-button {
+  display: inline-block;
+  padding: 0.25em 0.75em;
+  background-color: #F3F3F3;
+  color: #1F2529;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s, color 0.3s;
+  font-size: 0.85rem; 
+  font-weight: 600;
+}
+
+.contact-button:hover {
+  background-color: #2185D5;
+  color: #FFFEFD;
+  text-decoration: none;
+}
