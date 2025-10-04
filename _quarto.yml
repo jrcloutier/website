@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - assets/media
+
 website:
   title: "Jimmy Cloutier"
   description: "Data and Investigative Journalist at the Pittsburgh Post-Gazette"
@@ -11,15 +14,17 @@ website:
   page-footer:
     left: >-
      &#169; 2025 Jimmy Cloutier &#8729; Made with [Quarto](https://quarto.org)
+
 format:
   html:
     theme:
       - default
       - brand.yaml
-    css: assets/index.css
+    css: /assets/index.css
     code-link: false
     pagetitle: "{{< meta title >}}"
     lightbox: true
+    include-in-header: assets/soundcite-head.html
 
 execute:
   freeze: auto

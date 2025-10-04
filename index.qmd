@@ -11,9 +11,12 @@ about:
     - text: "{{< fa brands bluesky >}}"
       aria-label: "Bluesky"
       href: https://bsky.app/profile/cloutierjr.bsky.social
-    - icon: github
+    - text: "{{< fa brands github >}}"
       aria-label: "GitHub"
-      href: https://github.com/jcloutier
+      href: https://github.com/jrcloutier
+    - text: "{{< fa brands instagram >}}"
+      aria-label: "Instagram"
+      href: https://www.instagram.com/jimmycloutier/
 page-layout: article
 
 execute: 
@@ -34,11 +37,11 @@ listing:
 <br><br>
 
 ::: {#hero-heading}
-I am a data and investigative journalist, which is a fancy way of saying I get paid to sift through large datasets and records to find and tell stories in the public interest. I currently report for the [Pittsburgh Post-Gazette](https://www.post-gazette.com/), where I have covered a range of issues including politics, housing, and coal mining. Before I joined the Post-Gazette, I covered campaign finance and lobbying for [OpenSecrets](https://www.opensecrets.org/), a nonprofit that tracks the influence of money in U.S. politics. 
+I’m a data and investigative journalist — which basically means I dig through large datasets and records to uncover stories that matter. I currently report for the [Pittsburgh Post-Gazette](https://www.post-gazette.com/), covering politics, housing, the coal industry, and more. Before that, I tracked campaign finance and lobbying for [OpenSecrets](https://www.opensecrets.org/), a nonprofit that monitors money’s influence in U.S. politics.
 :::
 
 <br>
 
 ------------------------------------------------------------------------
 
-#### Select work
+#### Recent work

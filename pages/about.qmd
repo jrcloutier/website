@@ -3,15 +3,20 @@ title: "About"
 format: html
 ---
 
-I am Jimmy Cloutier (JIM-EE KL-oo-tyeh), a data and investigative journalist at the [Pittsburgh Post-Gazette](https://www.post-gazette.com/). That's a fancy way of saying I get paid to sift through large datasets and records to find and tell stories in the public interest. 
+I'm Jimmy Cloutier, a data and investigative journalist at the [Pittsburgh Post-Gazette](https://www.post-gazette.com/). I dig into large datasets and public records — often with code — to uncover stories that matter to the public.
 
-Before I joined the Post-Gazette, I covered campaign finance and lobbying for [OpenSecrets](https://www.opensecrets.org/), a nonprofit that tracks the influence of money in U.S. politics.I also freelanced for the [Virginia Center for Investigative Journalism](https://vcij.org/). 
+Before joining the Post-Gazette, I covered campaign finance and lobbying for [OpenSecrets](https://www.opensecrets.org/), a nonprofit that tracks the influence of money in U.S. politics. I also freelanced for the [Virginia Center for Investigative Journalism](https://vcij.org/).
 
-I studied English literature at Virginia Commonwealth University and later graduated with a master's degree in investigative journalism from Arizona State University. Between then, I taught high school and spent two years in Armenia with the U.S. Peace Corps, teaching English as a foreign language. 
+I studied English literature at Virginia Commonwealth University and earned a master’s in investigative journalism from Arizona State University. Along the way, I taught high school and spent two years in Armenia with the U.S. Peace Corps, teaching English as a foreign language.
 
-I grew up outside Richmond, Virginia, but I was born in a small town in Québec, Canada.
-<br><br>
-<a href="mailto:jcloutier@post-gazette" class="contact-button">{{< fa envelope >}}&nbsp;Email</a> <a href="https://signal.me/#eu/mfRohdbtUfQcObyk9dwMWhF_hWJFpQlaN2D-EIyG_vz30vghVJNBF7vozqmyjfhw" class="contact-button">{{< fa lock >}}&nbsp;&nbsp;jrcloutier.92</a>
+I was born in Québec, Canada, but I grew up 1,000 miles south outside of Richmond, Va. <br><br> <a href="mailto:jcloutier@post-gazette" class="contact-button">{{< fa envelope >}} Email</a> <a href="https://signal.me/#eu/mfRohdbtUfQcObyk9dwMWhF_hWJFpQlaN2D-EIyG_vz30vghVJNBF7vozqmyjfhw" class="contact-button">{{< fa lock >}}  jrcloutier.92</a> <br><br> <br><br>
 
+------------------------------------------------------------------------
 
+#### Honors
 
+-   2025 First Place, Robert L. Vann Award of Excellence, Daily Enterprise/Investigative \| Pittsburgh Black Media Federation
+-   2025 Golden Quill Finalist, Excellence in Written Journalism, Business \| The Press Club of Western Pennsylvania
+-   2022 First Place, Outstanding Student Reporting \| Society of Environmental Journalists
+-   2022 First Place, Best Collegiate Investigation \| EPPY
+-   2022 First Place, Projects and Collaborations \| SABEW

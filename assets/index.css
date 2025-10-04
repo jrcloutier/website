@@ -116,7 +116,7 @@ div.quarto-post a {
 
 .quarto-about-solana .about-link i,
 .quarto-about-solana .about-link .fa {
-    font-size: 1.5em;
+    font-size: 1.65em;
     color: var(--bs-body-color);
 }
 
@@ -134,13 +134,10 @@ div.quarto-post a {
 
 /* Bluesky specific size */
 .quarto-about-solana .about-link .fa-bluesky {
-    font-size: 1.3em !important;
+    font-size: 1.5em !important;
 }
 
-/* GitHub specific size */
-.quarto-about-solana .about-link .fa-github {
-    font-size: 1em !important;
-}
+/* Contact buttons */
 
 .contact-button {
   display: inline-block;
@@ -150,7 +147,7 @@ div.quarto-post a {
   text-decoration: none;
   border-radius: 5px;
   transition: background-color 0.3s, color 0.3s;
-  font-size: 0.85rem; 
+  font-size: 0.85rem;
   font-weight: 600;
 }
 
@@ -159,3 +156,9 @@ div.quarto-post a {
   color: #FFFEFD;
   text-decoration: none;
 }
+
+
+ul {
+    list-style-type: square;
+}
+
