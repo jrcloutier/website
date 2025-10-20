@@ -11,6 +11,7 @@ website:
     right:
       - text: "About"
         href: pages/about.qmd
+  search: false
   page-footer:
     left: >-
      &#169; 2025 Jimmy Cloutier &#8729; Made with [Quarto](https://quarto.org)
@@ -25,6 +26,7 @@ format:
     pagetitle: "{{< meta title >}}"
     lightbox: true
     include-in-header: assets/soundcite-head.html
+    anchor-sections: false
 
 execute:
   freeze: auto

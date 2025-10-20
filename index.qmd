@@ -37,7 +37,7 @@ listing:
 <br><br>
 
 ::: {#hero-heading}
-I’m a data and investigative journalist — which basically means I dig through large datasets and records to uncover stories that matter. I currently report for the [Pittsburgh Post-Gazette](https://www.post-gazette.com/), covering politics, housing, the coal industry, and more. Before that, I tracked campaign finance and lobbying for [OpenSecrets](https://www.opensecrets.org/), a nonprofit that monitors money’s influence in U.S. politics.
+I’m a data and investigative journalist — which basically means I dig through large datasets and records to uncover stories in the public interest. I currently report for the [Pittsburgh Post-Gazette](https://www.post-gazette.com/), covering politics, housing, the coal industry, and more. Before that, I tracked campaign finance and lobbying for [OpenSecrets](https://www.opensecrets.org/), a nonprofit that monitors money’s influence in U.S. politics.
 :::
 
 <br>

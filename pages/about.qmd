@@ -3,20 +3,22 @@ title: "About"
 format: html
 ---
 
-I'm Jimmy Cloutier, a data and investigative journalist at the [Pittsburgh Post-Gazette](https://www.post-gazette.com/). I dig into large datasets and public records — often with code — to uncover stories that matter to the public.
+I'm Jimmy Cloutier, a data and investigative journalist at the [Pittsburgh Post-Gazette](https://www.post-gazette.com/). I dig into large datasets and public records to uncover stories in the public interest.
 
 Before joining the Post-Gazette, I covered campaign finance and lobbying for [OpenSecrets](https://www.opensecrets.org/), a nonprofit that tracks the influence of money in U.S. politics. I also freelanced for the [Virginia Center for Investigative Journalism](https://vcij.org/).
 
 I studied English literature at Virginia Commonwealth University and earned a master’s in investigative journalism from Arizona State University. Along the way, I taught high school and spent two years in Armenia with the U.S. Peace Corps, teaching English as a foreign language.
 
-I was born in Québec, Canada, but I grew up 1,000 miles south outside of Richmond, Va. <br><br> <a href="mailto:jcloutier@post-gazette" class="contact-button">{{< fa envelope >}} Email</a> <a href="https://signal.me/#eu/mfRohdbtUfQcObyk9dwMWhF_hWJFpQlaN2D-EIyG_vz30vghVJNBF7vozqmyjfhw" class="contact-button">{{< fa lock >}}  jrcloutier.92</a> <br><br> <br><br>
+I was born in Québec, Canada, but I grew up a thousand miles south in Richmond, Va. <br><br> <a href="mailto:jcloutier@post-gazette" class="contact-button">{{< fa envelope >}} Email</a> <a href="https://signal.me/#eu/mfRohdbtUfQcObyk9dwMWhF_hWJFpQlaN2D-EIyG_vz30vghVJNBF7vozqmyjfhw" class="contact-button">{{< fa lock >}}  jrcloutier.92</a> <br><br> <br><br>
 
 ------------------------------------------------------------------------
 
 #### Honors
 
--   2025 First Place, Robert L. Vann Award of Excellence, Daily Enterprise/Investigative \| Pittsburgh Black Media Federation
--   2025 Golden Quill Finalist, Excellence in Written Journalism, Business \| The Press Club of Western Pennsylvania
--   2022 First Place, Outstanding Student Reporting \| Society of Environmental Journalists
--   2022 First Place, Best Collegiate Investigation \| EPPY
--   2022 First Place, Projects and Collaborations \| SABEW
+-   [2025 Second Place, Spotlight Award](https://keystonespj.wordpress.com/) \| Society of Professional Journalists, Keystone Chapter
+-   [2025 First Place, Robert L. Vann Award of Excellence, Daily Enterprise/Investigative](https://www.post-gazette.com/business/career-workplace/2025/06/05/post-gazette-pittsburgh-black-media-federation-vann-awards/stories/202506050112) \| Pittsburgh Black Media Federation
+-   [2025 Golden Quill Finalist, Excellence in Written Journalism, Business](https://www.post-gazette.com/business/career-workplace/2025/05/29/post-gazette-journalism-awards-quills/stories/202505280085) \| The Press Club of Western Pennsylvania
+-   [2022 First Place, Projects and Collaborations](https://sabew.org/2023/11/2022-best-in-business-awards/) \| Society for Advancing Business Editing and Writing
+-   [2022 Hon. Mention, Nina Mason Pulliam Award for Outstanding Environmental Reporting](https://www.sej.org/outstanding-student-reporting-sej-22nd-annual-awards-reporting-environment) \| Society of Environmental Journalists
+-   [2022 First Place, Outstanding Student Reporting](https://www.sej.org/outstanding-student-reporting-sej-22nd-annual-awards-reporting-environment) \| Society of Environmental Journalists
+-   [2022 First Place, Best Collegiate Investigation](https://www.editorandpublisher.com/stories/2022-eppy-award-winners,241039) \| EPPY

@@ -1,6 +1,7 @@
 ---
 title: "Presentations"
 format: html
+publish: false
 ---
 
 This is a collection of presentations and talks, currently a work-in-progress.  
