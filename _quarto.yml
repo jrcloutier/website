@@ -6,6 +6,7 @@ project:
 
 website:
   title: "Jimmy Cloutier"
+  site-url: "https://www.jrcloutier.com"
   description: "Data and Investigative Journalist at the Pittsburgh Post-Gazette"
   navbar:
     right:
