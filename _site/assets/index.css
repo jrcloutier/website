@@ -1,19 +1,26 @@
-/* heading 4 */
+/* ==============================
+   Headings
+============================== */
+
+/* heading 3 */
 h3 {
   margin-top: 5px;
-  font-size:1.3rem;
+  font-size: 1.3rem;
 }
 
 /* heading 4 */
 h4 {
-  font-size:0.75rem;
-  font-family:Noto Sans, sans-serif;
-  text-transform:uppercase;
+  font-size: 0.75rem;
+  font-family: Noto Sans, sans-serif;
+  text-transform: uppercase;
   font-weight: 600;
-  letter-spacing: .05em;
+  letter-spacing: 0.05em;
   margin-bottom: 25px;
 }
 
+/* ==============================
+   Quarto post metadata
+============================== */
 div.quarto-post .metadata,
 div.quarto-post .metadata * {
   color: #1F2529 !important;
@@ -23,7 +30,7 @@ div.quarto-post .metadata * {
   letter-spacing: 0.05em;
 }
 
-div.quarto-post{
+div.quarto-post {
   margin-bottom: 1em;
   padding-bottom: 0.5em;
 }
@@ -32,21 +39,45 @@ div.quarto-post .listing-title a {
   font-weight: 600;
 }
 
-/* Reset everything else */
+/* Reset links */
 div.quarto-post a {
   font-weight: normal;
   color: #303841;
   text-decoration: none;
 }
 
-/* navbar */
-.navbar{
-  background-color: #FFFEFD;
-  color: #303841;
+/* ==============================
+   Navbar
+============================== */
+.navbar {
+  background-color: #ffffff !important;
+  display: flex;
+  justify-content: space-between; /* title left, links right */
+  align-items: center;
+  padding: 0.5rem 1rem;
   border-bottom: solid 0.5px lightgray;
 }
 
-.nav-link{
+.navbar-brand {
+  margin-right: auto !important;
+  color: #303841 !important;
+  font-weight: 600;
+  font-size: 1rem;
+  text-decoration: none;
+}
+
+.navbar-brand:hover {
+  color: darkgray;
+}
+
+.navbar-nav {
+  display: flex !important;
+  flex-direction: row !important;
+  margin-left: auto !important;
+  gap: 1rem;
+}
+
+.nav-link {
   color: #303841;
 }
 
@@ -59,17 +90,24 @@ div.quarto-post a {
   color: #303841 !important;
 }
 
-.navbar-brand{
-  color: #303841;
+/* Keep navbar links visible on mobile */
+@media (max-width: 768px) {
+  .navbar-nav {
+    flex-direction: row !important;
+    justify-content: flex-end !important;
+  }
+  .navbar-collapse {
+    display: flex !important;
+    flex-basis: auto !important;
+  }
+  .navbar-toggler {
+    display: none !important;
+  }
 }
 
-.navbar-brand:hover{
-  color: darkgray;
-}
-
-/* Make the detached search button visible */
+/* Detached search button */
 .aa-DetachedSearchButton {
-  color: #303841 !important;       /* dark gray color for SVG */
+  color: #303841 !important;
   background: transparent !important;
   border: none !important;
   cursor: pointer;
@@ -77,68 +115,79 @@ div.quarto-post a {
   padding: 0.25em;
 }
 
-/* Also target the icon container in case of overrides */
-.aa-DetachedSearchButtonIcon {
-  color: inherit !important;       /* inherit color from button */
-}
-
-/* Just to be safe, target the svg */
+.aa-DetachedSearchButtonIcon,
 .aa-DetachedSearchButtonIcon svg {
+  color: inherit !important;
   fill: currentColor !important;
-  color: inherit !important;
 }
 
-/* If there’s a parent navbar class making color white, override it */
-.navbar,
-.navbar * {
-  color: inherit !important;
+/* ==============================
+   Hero section
+============================== */
+#hero-heading p {
+  text-align: left !important;
 }
 
-/* Target Quarto solana template social links */
+/* ==============================
+   Social icons
+============================== */
 .quarto-about-solana .about-links {
-    justify-content: flex-start;
-    gap: 1em;
+  display: flex !important;
+  justify-content: flex-start !important; /* left-aligned on desktop */
+  align-items: center !important;
+  flex-wrap: wrap !important;
+  gap: 1em !important;
+  border: none !important;
+}
+
+@media (max-width: 768px) {
+  .quarto-about-solana .about-links {
+    flex-direction: row !important;
+    justify-content: center !important; /* center icons on mobile */
+    flex-wrap: nowrap !important;
+  }
+
+  .quarto-about-solana .about-link {
+    display: inline-flex !important;
+  }
 }
 
 .quarto-about-solana .about-link {
-    background: none !important;
-    border: none !important;
-    padding: 0 !important;
-    box-shadow: none !important;
-    text-decoration: none !important;
+  background: none !important;
+  border: none !important;
+  padding: 0 !important;
+  box-shadow: none !important;
+  text-decoration: none !important;
 }
 
 .quarto-about-solana .about-link:hover {
-    background: none !important;
-    border: none !important;
-    transform: none !important;
+  background: none !important;
+  border: none !important;
+  transform: none !important;
 }
 
-.quarto-about-solana .about-link i,
-.quarto-about-solana .about-link .fa {
-    font-size: 1.65em;
-    color: var(--bs-body-color);
-}
-
-/* Base icon styles */
 .quarto-about-solana .about-link i,
 .quarto-about-solana .about-link .fa,
 .quarto-about-solana .about-link .fa-brands {
-    width: 1em !important;
-    height: 1em !important;
-    line-height: 1em !important;
-    vertical-align: middle !important;
-    display: inline-flex !important;
-    align-items: center !important;
+  font-size: 1.65em;
+  color: var(--bs-body-color);
+  width: 1em !important;
+  height: 1em !important;
+  line-height: 1em !important;
+  vertical-align: middle !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  border: none !important;
 }
 
-/* Bluesky specific size */
 .quarto-about-solana .about-link .fa-bluesky {
-    font-size: 1.5em !important;
+  font-size: 1.5em !important;
 }
 
-/* Contact buttons */
-
+/* ==============================
+   Contact buttons
+============================== */
 .contact-button {
   display: inline-block;
   padding: 0.25em 0.75em;
@@ -157,8 +206,33 @@ div.quarto-post a {
   text-decoration: none;
 }
 
-
+/* ==============================
+   Lists
+============================== */
 ul {
-    list-style-type: square;
+  list-style-type: square;
 }
 
+/* ==============================
+   Horizontal rules
+============================== */
+hr {
+  border: none !important;
+  border-top: 3px solid #000000 !important;
+  margin: 1rem 0 !important; /* reduced spacing */
+  width: 100%;
+  opacity: 1 !important;
+}
+
+/* ==============================
+   Background and text
+============================== */
+body,
+main,
+.page-content,
+.quarto-container,
+.content,
+#quarto-content {
+  background-color: #ffffff !important; /* pure white background */
+  color: #1F2529;
+}
