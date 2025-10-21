@@ -90,7 +90,7 @@ div.quarto-post a {
   color: #303841 !important;
 }
 
-/* Remove hamburger toggle and keep links visible on mobile */
+/* Keep navbar links visible on mobile */
 @media (max-width: 768px) {
   .navbar-nav {
     flex-direction: row !important;
@@ -133,7 +133,7 @@ div.quarto-post a {
 ============================== */
 .quarto-about-solana .about-links {
   display: flex !important;
-  justify-content: center !important; /* center icons horizontally */
+  justify-content: flex-start !important; /* left-aligned on desktop */
   align-items: center !important;
   flex-wrap: wrap !important;
   gap: 1em !important;
@@ -143,9 +143,10 @@ div.quarto-post a {
 @media (max-width: 768px) {
   .quarto-about-solana .about-links {
     flex-direction: row !important;
-    justify-content: center !important;
+    justify-content: center !important; /* center icons on mobile */
     flex-wrap: nowrap !important;
   }
+
   .quarto-about-solana .about-link {
     display: inline-flex !important;
   }
@@ -218,7 +219,7 @@ ul {
 hr {
   border: none !important;
   border-top: 3px solid #000000 !important;
-  margin: 1rem 0 !important; /* reduced space */
+  margin: 1rem 0 !important; /* reduced spacing */
   width: 100%;
   opacity: 1 !important;
 }
@@ -232,6 +233,6 @@ main,
 .quarto-container,
 .content,
 #quarto-content {
-  background-color: #ffffff !important; /* force pure white background */
+  background-color: #ffffff !important; /* pure white background */
   color: #1F2529;
 }
