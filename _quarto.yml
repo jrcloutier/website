@@ -12,6 +12,8 @@ website:
     right:
       - text: "About"
         href: pages/about.qmd
+      - text: "Blog"
+        href: blog/index.qmd
   search: false
   page-footer:
     left: >-
@@ -31,3 +33,5 @@ format:
 
 execute:
   freeze: auto
+
+

@@ -49,5 +49,11 @@
   },
   "pages/photos.qmd": {
     "photos.html": "53301a96"
+  },
+  "blog/posts/2025-12-02-tidycensus.qmd": {
+    "2025-12-02-tidycensus.html": "e4a06911"
+  },
+  "blog/index.qmd": {
+    "index.html": "106541db"
   }
 }

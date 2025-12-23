@@ -2,6 +2,9 @@
   "listingMap": {
     "index.qmd": [
       "work.yml"
+    ],
+    "blog/index.qmd": [
+      "posts"
     ]
   }
 }

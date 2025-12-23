@@ -1,0 +1,5 @@
+---
+title: "TidyTuesday Week 46: Boog Forecasts"
+date: "2025-12-01"
+categories: [tidytuesday]
+---
