@@ -165,6 +165,7 @@ div.quarto-post a {
   box-shadow: none !important;
   text-decoration: none !important;
   transition: background-color 0.3s !important;
+  line-height: 1 !important;
 }
 
 .quarto-about-solana .about-link:hover {
@@ -188,6 +189,9 @@ div.quarto-post a {
   align-items: center !important;
   justify-content: center !important;
   border: none !important;
+  line-height: 1 !important;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
 .quarto-about-solana .about-link .fa-github,
