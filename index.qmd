@@ -14,6 +14,9 @@ about:
     - text: "{{< fa brands github >}}"
       aria-label: "GitHub"
       href: https://github.com/jrcloutier
+    - text: "{{< fa brands linkedin >}}"
+      aria-label: "LinkedIn"
+      href: https://www.linkedin.com/in/jrcloutier/
 page-layout: article
 
 execute: 
