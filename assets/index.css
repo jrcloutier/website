@@ -50,7 +50,7 @@ div.quarto-post a {
    Navbar
 ============================== */
 .navbar {
-  background-color: #FFFEFD !important;
+  background-color: #FFFFFF !important;
   display: flex;
   justify-content: space-between; /* title left, links right */
   align-items: center;
@@ -153,36 +153,46 @@ div.quarto-post a {
 }
 
 .quarto-about-solana .about-link {
-  background: none !important;
+  background-color: #F3F3F3 !important;
   border: none !important;
+  border-radius: 50% !important;
+  width: 2.5em !important;
+  height: 2.5em !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
   padding: 0 !important;
   box-shadow: none !important;
   text-decoration: none !important;
+  transition: background-color 0.3s !important;
 }
 
 .quarto-about-solana .about-link:hover {
-  background: none !important;
+  background-color: #2185D5 !important;
   border: none !important;
   transform: none !important;
+}
+
+.quarto-about-solana .about-link:hover i,
+.quarto-about-solana .about-link:hover .fa,
+.quarto-about-solana .about-link:hover .fa-brands {
+  color: #FFFFFF !important;
 }
 
 .quarto-about-solana .about-link i,
 .quarto-about-solana .about-link .fa,
 .quarto-about-solana .about-link .fa-brands {
-  font-size: 1.65em;
-  color: var(--bs-body-color);
-  width: 1em !important;
-  height: 1em !important;
-  line-height: 1em !important;
-  vertical-align: middle !important;
+  font-size: 1.1em;
+  color: #1F2529;
   display: inline-flex !important;
   align-items: center !important;
   justify-content: center !important;
   border: none !important;
 }
 
-.quarto-about-solana .about-link .fa-bluesky {
-  font-size: 1.5em !important;
+.quarto-about-solana .about-link .fa-github,
+.quarto-about-solana .about-link .fa-linkedin {
+  font-size: 1.3em !important;
 }
 
 /* ==============================
@@ -233,6 +243,6 @@ main,
 .quarto-container,
 .content,
 #quarto-content {
-  background-color: #FFFEFD !important; /* matches brand background */
+  background-color: #FFFFFF !important;
   color: #1F2529;
 }
