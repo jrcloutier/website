@@ -9,7 +9,7 @@ Before joining the Post-Gazette, I covered campaign finance and lobbying for [Op
 
 I studied English literature at Virginia Commonwealth University and earned a master’s in investigative journalism from Arizona State University. Along the way, I taught high school and spent two years in Armenia with the U.S. Peace Corps, teaching English as a foreign language.
 
-I was born in Québec, Canada, but I grew up a thousand miles south in Richmond, Va. <br><br> <a href="mailto:jcloutier@post-gazette" class="contact-button">{{< fa envelope >}} Email</a> <a href="https://signal.me/#eu/mfRohdbtUfQcObyk9dwMWhF_hWJFpQlaN2D-EIyG_vz30vghVJNBF7vozqmyjfhw" class="contact-button">{{< fa lock >}}  jrcloutier.92</a> <br><br> <br><br>
+I was born in Québec, Canada, but I grew up a thousand miles south in Richmond, Va. <br><br> <a href="mailto:jcloutier@post-gazette" class="contact-button">{{< fa envelope >}} Email</a> <a href="https://signal.me/#eu/mfRohdbtUfQcObyk9dwMWhF_hWJFpQlaN2D-EIyG_vz30vghVJNBF7vozqmyjfhw" class="contact-button">{{< fa brands signal-messenger >}}  jrcloutier.92</a> <br><br> <br><br>
 
 ------------------------------------------------------------------------
 

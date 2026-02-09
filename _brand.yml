@@ -1,7 +1,7 @@
 # Color palette
 color:
   palette:
-    white: "#FFFEFD"
+    white: "#FFFFFF"
     black: "#303841"
     blue: "#2185D5"
     lightgray: "#F3F3F3"
