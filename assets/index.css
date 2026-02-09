@@ -50,7 +50,7 @@ div.quarto-post a {
    Navbar
 ============================== */
 .navbar {
-  background-color: #ffffff !important;
+  background-color: #FFFEFD !important;
   display: flex;
   justify-content: space-between; /* title left, links right */
   align-items: center;
@@ -233,6 +233,6 @@ main,
 .quarto-container,
 .content,
 #quarto-content {
-  background-color: #ffffff !important; /* pure white background */
+  background-color: #FFFEFD !important; /* matches brand background */
   color: #1F2529;
 }
