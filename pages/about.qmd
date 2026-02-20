@@ -7,9 +7,15 @@ I'm Jimmy Cloutier, a data and investigative journalist at the [Pittsburgh Post-
 
 Before joining the Post-Gazette, I covered campaign finance and lobbying for [OpenSecrets](https://www.opensecrets.org/), a nonprofit that tracks the influence of money in U.S. politics. I also freelanced for the [Virginia Center for Investigative Journalism](https://vcij.org/).
 
-I studied English literature at Virginia Commonwealth University and earned a master’s in investigative journalism from Arizona State University. Along the way, I taught high school and spent two years in Armenia with the U.S. Peace Corps, teaching English as a foreign language.
+I studied English literature at Virginia Commonwealth University and earned a master’s in investigative journalism from the Howard Center for Investigative Journalism at Arizona State University. Along the way, I taught high school and spent two years in Armenia with the U.S. Peace Corps, teaching English as a foreign language.
 
-I was born in Québec, Canada, but I grew up a thousand miles south in Richmond, Va. <br><br> <a href="mailto:jcloutier@post-gazette" class="contact-button">{{< fa envelope >}} Email</a> <a href="https://signal.me/#eu/mfRohdbtUfQcObyk9dwMWhF_hWJFpQlaN2D-EIyG_vz30vghVJNBF7vozqmyjfhw" class="contact-button">{{< fa brands signal-messenger >}}  jrcloutier.92</a> <br><br> <br><br>
+I was born in Québec, Canada, but I grew up a thousand miles south in the suburbs outside of Richmond, Va. 
+
+<b>Have a tip for a story?</b> If you have information to share from inside the government, the companies where you work or from your communities, please reach out securely via Signal or email.
+<br>
+<br>
+<a href="mailto:jcloutier@post-gazette" class="contact-button">{{< fa envelope >}} Email</a> <a href="https://signal.me/#eu/mfRohdbtUfQcObyk9dwMWhF_hWJFpQlaN2D-EIyG_vz30vghVJNBF7vozqmyjfhw" class="contact-button">{{< fa brands signal-messenger >}}  Signal</a> <br><br> <br><br>
+<br>
 
 ------------------------------------------------------------------------
 
